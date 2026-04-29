@@ -44,6 +44,10 @@ To replicate the results for a specific architecture (e.g., Qubit-Harmonic):
 3. Use `vs_neg_diff.ipynb` to process the resulting data and generate the correlation-work trade-off plots.
 4. Run the optimization notebook `optim.ipynb` to generate the Master-Tracker Optimization logs.
 
+## Project Report and Presentation
+* **`report.pdf`**: Comprehensive documentation of the project, including theoretical background, numerical methods, results, and conclusions.
+* **`presentation.pdf`**: Slide deck summarizing the project for academic presentation.
+
 ## Installation & Requirements
 
 ### Dependencies
